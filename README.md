@@ -1,4 +1,4 @@
-# Hi, I'm Chinonso 👋
+# Hi, I'm Chinonso 
 
 ## 📊 Junior Data Analyst Portfolio
 
@@ -62,6 +62,4 @@ An enthusiastic and detail-oriented aspiring **Junior Data Analyst** with a stro
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chinonso-okafor-ab0913219)
-Google Data Analytics Professional Certificate | Coursera Completed December 2024
-Bachelor of Science (B.Sc.) in Computer Science | Nnamdi Azikiwe University Awka, Anambra State, Nigeria Graduated June 2008
- sorrry for taking you back this is what i type earlier so you mean i should delete it and paste Bike-Sharing Usage & Member Distribution Analysis ...
+
