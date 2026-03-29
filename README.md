@@ -44,7 +44,7 @@ An enthusiastic and detail-oriented aspiring **Junior Data Analyst** with a stro
 ---
 
 ### 🚀 Projects
-![Bike Share Analysis Chart](https://raw.githubusercontent.com/Chinonso-datasci/DATA-ANALYTICS-PORTFOLIO/main/Ride%20started%20hour.png)
+
 #### **[Bike Share Demand Analysis (R)](https://github.com/Chinonso-datasci/DATA-ANALYTICS-PORTFOLIO)**
 * **Description:** Conducted an in-depth exploratory data analysis of bike share user behavior to identify patterns among membership vs. casual riders.
 * **Tools:** R, RStudio (dplyr, ggplot2, lubridate), Kaggle Notebooks.
