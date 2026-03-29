@@ -51,8 +51,13 @@ An enthusiastic and detail-oriented aspiring **Junior Data Analyst** with a stro
 * **Key Learning:** Data cleaning/transformation, comparative analysis, and behavioral trend identification for business insights.
 * **[View on Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/code/nonowilson/capstone-project)** 
 
-#### 📊 Project Visuals
+#### 📊 Project Insight: Membership Distribution
+> **Analysis:** Members significantly outpace casual riders, suggesting a stable user base for commuting.
+
 ![Membership Distribution](https://raw.githubusercontent.com/Chinonso-datasci/DATA-ANALYTICS-PORTFOLIO/main/membership%20distribution.png)
+
+#### ⏰ Project Insight: Peak Usage Hours
+> **Analysis:** Ride activity peaks during morning and evening hours, indicating a strong commuting pattern.
 
 ![Ride Started Hour](https://raw.githubusercontent.com/Chinonso-datasci/DATA-ANALYTICS-PORTFOLIO/main/Ride%20started%20hour.png)
 ---
