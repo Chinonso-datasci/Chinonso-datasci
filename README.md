@@ -51,6 +51,10 @@ An enthusiastic and detail-oriented aspiring **Junior Data Analyst** with a stro
 * **Key Learning:** Data cleaning/transformation, comparative analysis, and behavioral trend identification for business insights.
 * **[View on Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/code/nonowilson/capstone-project)** 
 
+#### 📊 Project Visuals
+![Membership Distribution](https://raw.githubusercontent.com/Chinonso-datasci/DATA-ANALYTICS-PORTFOLIO/main/membership%20distribution.png)
+
+![Ride Started Hour](https://raw.githubusercontent.com/Chinonso-datasci/DATA-ANALYTICS-PORTFOLIO/main/Ride%20started%20hour.png)
 ---
 
 ### 🎓 Education
