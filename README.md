@@ -49,7 +49,7 @@ An enthusiastic and detail-oriented aspiring **Junior Data Analyst** with a stro
 * **Description:** Conducted an in-depth exploratory data analysis of bike share user behavior to identify patterns among membership vs. casual riders.
 * **Tools:** R, RStudio (dplyr, ggplot2, lubridate), Kaggle Notebooks.
 * **Key Learning:** Data cleaning/transformation, comparative analysis, and behavioral trend identification for business insights.
-* **[View on Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/code/nonowilson/capstone-project))** 
+* **[View on Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/code/nonowilson/capstone-project)** 
 
 ---
 
