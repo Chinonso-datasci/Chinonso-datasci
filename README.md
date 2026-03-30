@@ -1,10 +1,50 @@
-# Hi, I'm Chinonso 
+# Hi, I'm Chinonso Okafor 
+### Junior Data Analyst | Human Data & Operations Specialist
 
-## 📊 Junior Data Analyst Portfolio
+I am a technically-minded professional with a **B.Sc. in Computer Science** and over 7 years of experience managing large-scale operations and data integrity in high-pressure environments. I specialize in turning complex human activity into high-signal datasets and actionable insights.
 
-### About Me
-An enthusiastic and detail-oriented aspiring **Junior Data Analyst** with a strong foundation in data management, reporting, and problem-solving, eager to apply analytical skills to derive actionable business insights. Transitioning from extensive experience in financial operations and administrative coordination, I bring a unique blend of practical problem-solving and rigorous data handling to new challenges.
+---
 
+## 🚀 Professional Profile
+* **Human Data Expert:** Experienced in managing records for 348 staff and optimizing workflows across 20+ service branches.
+* **Analytical Mindset:** Certified by Google in Advanced Data Analytics, with a focus on R, Python, and SQL.
+* **Operational Excellence:** Proven track record in KPI monitoring, process scalability, and data validation at leading financial institutions.
+
+---
+
+## 🛠️ Technical Toolkit
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, R, SQL (Foundational) |
+| **Data Viz** | Tableau, Power BI, Excel |
+| **Operations** | Workflow Optimization, Data Cleaning, GitHub, AI Image Generation |
+| **Frameworks** | Data Integrity, KPI Tracking, Reinforcement Learning from Human Feedback (RLHF) Concepts |
+
+---
+
+## 📊 Featured Project: Cyclistic Bike Share Analysis
+> **Goal:** Analyze historical trip data to identify trends between casual riders and annual members to drive marketing strategy.
+
+### Key Insights:
+* **Membership Distribution:** Identified that annual members significantly outpace casual riders, suggesting a stable user base for daily commuting.
+* **Peak Usage Patterns:** Discovered high-activity "rush hours" that correlate with professional transit times.
+
+![Membership Distribution](https://raw.githubusercontent.com/Chinonso-datasci/DATA-ANALYTICS-PORTFOLIO/main/membership%20distribution.png)
+
+#### [View Full Project Repository](https://github.com/Chinonso-datasci/DATA-ANALYTICS-PORTFOLIO)
+
+---
+
+## 💼 Career History
+* **Moniepoint Agency Banking** | *Agent* | Focused on transactional data integrity and dispute resolution workflows.
+* **Firstbank Nig. Ltd.** | *Area Service Manager Secretary* | Managed data infrastructure for 20 outlets and coordinated large-scale reporting frameworks.
+
+---
+
+## 📫 Connect with Me
+* **LinkedIn:** [Your LinkedIn Link Here]
+* **Email:** chinofav95@gmail.com
+* **Location:** Sevilla, Spain (Open to Remote/Hybrid)
 ---
 
 ### 🛠 Technical Skills
