@@ -31,6 +31,7 @@ I am a technically-minded professional with a **B.Sc. in Computer Science** and 
 ![Membership Distribution](https://raw.githubusercontent.com/Chinonso-datasci/DATA-ANALYTICS-PORTFOLIO/main/membership%20distribution.png)
   
 * **Peak Usage Patterns:** Discovered high-activity "rush hours" that correlate with professional transit times.
+  
 ![Ride Started Hour](https://raw.githubusercontent.com/Chinonso-datasci/DATA-ANALYTICS-PORTFOLIO/main/Ride%20started%20hour.png)
 
 
@@ -58,12 +59,7 @@ I am a technically-minded professional with a **B.Sc. in Computer Science** and 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinofav95@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Sevilla%2C%20Spain-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Seville,+Spain)
 
----
 
-
-### 🚀 Projects
-
-#### **[Bike Share Demand Analysis (R)](https://github.com/Chinonso-datasci/DATA-ANALYTICS-PORTFOLIO)**
 
 
 
