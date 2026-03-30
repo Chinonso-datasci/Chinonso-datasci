@@ -27,6 +27,7 @@ I am a technically-minded professional with a **B.Sc. in Computer Science** and 
 
 ### Key Insights:
 * **Membership Distribution:** Identified that annual members significantly outpace casual riders, suggesting a stable user base for daily commuting.
+  
 ![Membership Distribution](https://raw.githubusercontent.com/Chinonso-datasci/DATA-ANALYTICS-PORTFOLIO/main/membership%20distribution.png)
   
 * **Peak Usage Patterns:** Discovered high-activity "rush hours" that correlate with professional transit times.
